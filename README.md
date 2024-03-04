@@ -1,3 +1,5 @@
+Moved to [SourceHut](https://git.sr.ht/~diego-est/rdbm)
+
 <!-- LTeX: language=en,es -->
 # R. O. N. DataBase Manager
 
